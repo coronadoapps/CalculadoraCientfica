@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora Científica</string>
+    <string name="TResultado"></string>
+    <string name="B7">7</string>
+    <string name="B8">8</string>
+    <string name="B9">9</string>
+    <string name="Bplus">+</string>
+    <string name="B4">4</string>
+    <string name="B5">5</string>
+    <string name="B6">6</string>
+    <string name="Bminus">-</string>
+    <string name="B1">1</string>
+    <string name="B2">2</string>
+    <string name="B3">3</string>
+    <string name="Btimes">x</string>
+    <string name="B0">0</string>
+    <string name="Bequals">=</string>
+    <string name="Bdivided">÷</string>
+    <string name="Bpoint">.</string>
+    <string name="borrar">c</string>
+    />
+</resources>
